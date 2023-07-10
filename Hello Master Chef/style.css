@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+
+   #steps{
+    margin: 5%;
+    font-variant: small-caps;
+    font-family: sans-serif;
+     
+     text-decoration:none;
+     text-shadow:none;
+     color: blue;
+}
+
+body{
+    font-family: sans-serif;
+    line-height: 30px;
+    padding:50px;  
+    6`
+    
+}
+div {
+    color: black;
+    text-align: left;
+    
+}
+a{
+     font-size:x-large;
+     text-transform: capitalize;
+     color: green;
+     text-decoration: none;
+}
+ img{
+    float: right;
+}
+.head{
+    background-image: url();
+    background-position: center;
+    background-size: cover;
+    height: 2;
+    width: 100%;
+}
